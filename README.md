@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @jo0n-lab
-- 👀 I’m interested in embedded systems, data visualization, machine learning, simulation
-- 🌱 I’m currently doing data visualization
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (email me😎 : joon8454@naver.com)
+Hi I'm cuberry ~
 
-<!---
-jo0n-lab/jo0n-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in Embedded AI - Spiking Neural Network, TinyML
+Interested in Multi-Agent Systems - Collaborative Robotics, Federated Learning(Collaborative)
+Interested in Connected Systems - Connected Car Services, Platooning
+
+Currently working on,
+    * 내일은 타자왕 - 코테 준비
+    * AOSP for Automotives
+    * Covesa SOME/IP
+    * Jetpack Compose 
