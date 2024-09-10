@@ -1,4 +1,4 @@
-Hi I'm cuberry ~
+Hi My name is cuBerry ~
 
 * Interested in Embedded AI - Spiking Neural Network, TinyML  
 * Interested in Multi-Agent Systems - Collaborative Robotics, Federated Learning(Collaborative)  
