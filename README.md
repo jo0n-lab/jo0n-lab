@@ -1,9 +1,3 @@
-## Hi My name is cuBerry ~ Thanks for visiting my github.
-This is my Portfolio.
-
-
-
-## English Version
 ![English version_1](images/PORTFOLIO_EN_NEW/PORTFOLIO_EN_NEW-01.png)
 ![English version_2](images/PORTFOLIO_EN_NEW/PORTFOLIO_EN_NEW-02.png)
 ![English version_3](images/PORTFOLIO_EN_NEW/PORTFOLIO_EN_NEW-03.png)
